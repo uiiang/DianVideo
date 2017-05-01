@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DianVideo</string>
+    <string name="video_url_input_hint">宝宝,这里填复制的地址哦~</string>
+</resources>
